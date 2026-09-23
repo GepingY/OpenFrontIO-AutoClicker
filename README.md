@@ -1,5 +1,5 @@
 # OpenFrontIO-AutoClicker
-"OpenFront.io AutoClicker" is a script that is made to carry out actions in OpenFrontIO faster, for example in a 50x Gold "Nuke War" custom game, players often run into the issue where despite sufficient resources, player is simply unable to launch nuke fast enough to penetrate enemy air defense(Sam)
+"OpenFront.io AutoClicker" is a **fully functioning** script that is made to carry out actions in OpenFrontIO faster, for example in a 50x Gold "Nuke War" custom game, players often run into the issue where despite sufficient resources, player is simply unable to launch nuke fast enough to penetrate enemy air defense(Sam)
 
 ## How to Use
 
