@@ -1,5 +1,5 @@
 # OpenFrontIO-AutoClicker
-"OpenFront.io AutoClicker" is a **fully functioning** script that is made to carry out actions in OpenFrontIO faster, for example in a 50x Gold "Nuke War" custom game, players often run into the issue where despite sufficient resources, player is simply unable to launch nuke fast enough to penetrate enemy air defense(Sam)
+"OpenFront.io AutoClicker" is a **fully functioning** script that is made to carry out actions in OpenFrontIO faster.
 
 ## How to Use
 
@@ -18,20 +18,7 @@ Hold the corresponding key and click where you want the building/nuke to be buil
 | `b` | Build/Upgrade 100 **Silo** |
 
 
+## Context
+I like to play custom games with large gold multiplier, in which case it would be exhausting to upgrade hundreds of levels of building and launch thousands batches of nuke, so this script is wrote to upgrade and launch at a faster rate by applying a multiplier
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Structure of Code
-Code for individual action is saved in the folder /src
-
-Main.js is a combined script for which you only need to execute once to gain all the function provided by the scripts in /src
+For example in a 50x Gold "Nuke War" custom game, players often struggle to launch nuke fast enough to penetrate enemy air defense(SAM) despite sufficient gold
