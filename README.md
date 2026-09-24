@@ -1,5 +1,5 @@
 # OpenFrontIO-AutoClicker
-"OpenFront.io AutoClicker" is a **fully functioning** script that is made to carry out actions in OpenFrontIO faster.
+AutoClicker for Openfront.io is a **fully functioning** script that is made to carry out actions in OpenFrontIO faster.
 
 ## How to Use
 
