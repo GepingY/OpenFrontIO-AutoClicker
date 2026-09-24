@@ -22,3 +22,9 @@ Hold the corresponding key and click where you want the building/nuke to be buil
 I like to play custom games with large gold multiplier, in which case it would be exhausting to upgrade hundreds of levels of building and launch thousands batches of nuke, so this script is wrote to upgrade and launch at a faster rate by applying a multiplier
 
 For example in a 50x Gold "Nuke War" custom game, players often struggle to launch nuke fast enough to penetrate enemy air defense(SAM) despite sufficient gold
+
+This script is made by backward engineering the source code published on https://github.com/openfrontio/openfrontio
+
+Play the game on https://openfront.io
+
+*This is **NOT** a cheating script, this script does not let you gain more resource than what you already have, all it does is improving experience and help you carry out instruction faster*
