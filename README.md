@@ -1,5 +1,8 @@
-# OpenFrontIO-AutoClicker
-AutoClicker for Openfront.io is a **fully functioning** script that is made to carry out actions in OpenFrontIO faster.
+# OpenFrontIO AutoClicker
+
+OpenFrontIO AutoClicker is a browser-based autoclicker, macro, and automation script for OpenFront.io that helps players perform repetitive in-game actions faster.
+
+It provides integrated function for rapidly launching nukes and building or upgrading structures such as Ports, SAM Launchers, and Missile Silos, making it especially useful in high - gold multiplier custom games where large numbers of actions need to be performed quickly.
 
 ## How to Use
 
