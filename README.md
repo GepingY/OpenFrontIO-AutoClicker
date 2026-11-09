@@ -27,6 +27,8 @@ Hold the corresponding key and click where you want the building/nuke to be buil
 
 `SAM Overlay` is a new feature where the range of every SAM is been displayed as a circle; It always tells you the amount of Enemy SAM that is covering the pixel that your cursor is currently pointed at.
 
+*New feature is still been added to this repo, the JS above will be updated for new features*
+
 ## Context
 I like to play custom games with large gold multiplier, in which case it would be exhausting to upgrade hundreds of levels of building and launch thousands batches of nuke, so this script is wrote to upgrade and launch at a faster rate by applying a multiplier
 
