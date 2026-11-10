@@ -6,7 +6,7 @@ It provides integrated function for rapidly launching nukes and building or upgr
 
 Following Newer development, this is not just a AutoClicker for mass launching/building no more, it also have: 
 - overlay layers to display SAM range/Level count
-- Auto Launching Nuke to intercept enemy transport ship
+- Auto Launching Nuke to intercept enemy transport ship(Scans the map every 5 second when enabled and auto calculate nuke lead and launch a single nuke at it)
 ## How to Use
 
 Copy the code below and save it as a book mark on your browser(The script is too long that chrome would display the remaining part of the script as ..., it's normal behavior and will not cut it off), then click it while in a game
